@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kübra.<br>💻 I'm improving my skills and knowledge as a full-stack  developer.<br>🌱 I'm deepening my knowledge of various full-stack technologies while also continuing to explore .Net Core.<br>👀 I am looking for a company where I can work for full stack developer.<br>📫 How to reach me: kubragavuzoglu@gmail.com<br><br><br>
+👋 Hi, I’m Kübra.<br>💻 I'm improving my skills and knowledge as a full-stack  developer.<br>🌱 I'm deepening my knowledge of various full-stack technologies while also continuing to explore .Net Core and  C# <br>👀 I am looking for a company where I can work for full stack developer.<br>📫 How to reach me: kubragavuzoglu@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
