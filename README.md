@@ -1,9 +1,9 @@
 # <h2>💫 About Me:  </h2> 
-👋 Hi, I’m Kübra.<br>💻 I'm improving my skills and knowledge as a full-stack  developer.<br>🌱 I'm deepening my knowledge of various full-stack technologies while also continuing to explore .Net Core and  C# <br>👀 I am looking for a company where I can work for full stack developer.<br>📫 How to reach me: kubragavuzoglu@gmail.com<br><br><br>
+👋 Hi, I’m Kübra.<br>💻 I'm improving my skills and knowledge as a full-stack  developer.<br>🌱 I'm deepening my knowledge of various full-stack technologies while also continuing to explore .Net Core and  C# <br>👀 I am looking for a company where I can work for full stack developer.<br>📫 How to reach me: kubragavuzoglu@gmail.com<br><br>
 
 
 ## <h2>🌐  Socials: </h2> 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KübraGavuzoglu#7347) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kubragavuzoglu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@codewithkubra) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KübraGavuzoglu#7347) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kubragavuzoglu)
 
 # <h2>💻  Languages and Tools: </h2> 
 <p> 
