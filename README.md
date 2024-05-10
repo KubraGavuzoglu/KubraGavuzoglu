@@ -24,12 +24,9 @@
 
 | Repo Links | Technologies and tools | Status | Year | Readme |
 |    :---:     |     :---:      |     :---:     |     :---:     |     :---:     |
-| <a href="https://github.com/KubraGavuzoglu/Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Sipari-Y-netimi">Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi</a>    | AspNet Core 6.0 - Asp.Net Core Api -SignalR - Swagger - Dto - N Ter Archtecture - MSSQL-Html Css- Bootstrap -JavaScrpt -Ajax -Entity Framework - Lnq -Alert -Basket - Rezervasyon İşlemler -Real-Tme Uygulamalar - Mail Gönderme İşlemler | continue      | 2024    | Texts and Images    |
-
+| <a href="https://github.com/KubraGavuzoglu/Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Sipari-Y-netimi">Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi</a>    | AspNet Core 6.0 - Asp.Net Core Api -SignalR - Swagger - Dto - N Ter Archtecture - MSSQL-Html Css- Bootstrap -JavaScrpt -Ajax -Entity Framework - Lnq -Alert -Basket - Rezervasyon İşlemler -Real-Tme Uygulamalar - Mail Gönderme İşlemler | continue      | 2024    | Texts and Images |
 | <a href="https://github.com/KubraGavuzoglu/Advert-Application"> Advert-Application</a>   | .Net Core MVC – Entity Framework Core –  MSSQL – Bootstrap – Datatables  | Finished    | 2023    | Texts, Images and Videos  |
-
-| <a href="https://github.com/KubraGavuzoglu/E-Ticaret-1">E-Ticaret-1 </a>    |  AspNet Core 6.0 - Asp.Net Core Api  – Swagger- N Ter Archtecture - MSSQL-Html Css- Bootstrap - JavaScrpt -Ajax -Entity Framework  Web API  Fluent Validation- Postman  | Finished      | 2023    | Texts and Images    |
-
+| <a href="https://github.com/KubraGavuzoglu/E-Ticaret-1">E-Ticaret-1 </a>    |  AspNet Core 6.0 - Asp.Net Core Api  – Swagger- N Ter Archtecture - MSSQL-Html Css- Bootstrap - JavaScrpt -Ajax -Entity Framework  Web API  Fluent Validation- Postman  | Finished     | 2023   | Texts and Images |
 | <a href="https://github.com/KubraGavuzoglu/CRM">CRM </a>    | AspNet Core 6.0 - Asp.Net Core Api -SignalR - Swagger - Dto - N Ter Archtecture - MSSQL-Html Css - Bootstrap - JavaScrpt -Ajax -Entity Framework - Lnq -Alert -Clean Architecture -CQRS Pattern - Mediator Pattern -DTO's - Mapster - Repository Pattern -ASP.NET MVC - Vue.js | Finished    | 2024    | Texts and Images    |
 
 
